@@ -1,0 +1,76 @@
+                Regional Scrum Gathering Nepal 2019
+========================================================================
+                        DEVOPS REDEFINED
+            The Curious Case of Revolutionary Tech Stacks
+			==============================================
+			   Vivek Ganesan,Agile/DevOps Coach,Ampyard
+			   ========================================
+1. DevOps
+	- No official definition
+	- Anything that helps devs and ops to work together 
+	- CI - Integrating continuously instead of just before the release date
+	- CD - Continous Delivery - Delivering continuously 
+	- CDep - Continuous Deployment - CD+ Automated deployment
+	- Pipelines
+		- Takes code in one end and gives out working software in prod from the other end
+		- Jenkins to create and run pipelines
+		
+		
+2. Machine Learning - How DevOps Differs here?
+Definition
+
+Tools
+- Python 
+	- Tensorflow
+	- Scikit - learning
+	- Anaconda - All in one machine learning setup in your computer
+- Flower classification
+	-Flower's parts
+		- Wings like & colorful - Petals
+		- Green colored - Sepals
+	- Iris dataset
+		Sepal Length - Sepal Width - Petal len - Petal Wid - What family?
+	- Flow
+		Training -> Pass actual data -> Output
+	- How testing is different?
+		- Training dataset & Test dataset
+		- % of correct classifications
+	- Pipeline script
+
+
+
+
+
+3. Blockchain Apps - How DevOps differs here?
+
+        Chain of blocks
+====================================
+|   Blockchain platforms            |
+=====================================
+|        Any computer in the world   |
+
+Ethereum
+Truffle - Framework for writing ethereum apps
+Ganache - Blockchain simulator
+
+- You dont have rights to modify the env
+- You cant push bug fixes as upgrades
+- You have to be right the very first time
+= TDD,BDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
