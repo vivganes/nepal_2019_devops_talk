@@ -5,6 +5,7 @@
 			==============================================
 			   Vivek Ganesan,Agile/DevOps Coach,Ampyard
 			   ========================================
+			   
 1. DevOps
 	- No official definition
 	- Anything that helps devs and ops to work together 
@@ -59,7 +60,9 @@ Ganache - Blockchain simulator
 = TDD,BDD
 
 
-
+Code samples can be found at 
+- https://github.com/vivganes/devops_blockchain_example 
+- https://github.com/vivganes/devops-machine-learning-example
 
 
 
